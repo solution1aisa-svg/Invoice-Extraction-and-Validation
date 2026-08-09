@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Extraction & Validation Assistant",
+  "description": "Accounts Payable invoice extraction and four-tier validation assistant for Boon Huat Hardware & Supplies Pte Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
